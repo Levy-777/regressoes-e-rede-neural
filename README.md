@@ -1,3 +1,3 @@
-Este repositório contém a implementação de modelos de Regressão Linear, Regressão Logística e uma Rede Neural(backpropagation), desenvolvidos como parte de um trabalho para a disciplina de Cálculo.
+Este repositório contém a implementação de modelos de Regressão Polinomial, Regressão Logística Polinomial e uma Rede Neural(backpropagation), desenvolvidos como parte de um trabalho para a disciplina de Cálculo.
 
 O objetivo foi aplicar esses modelos a um dataset de livre escolha, utilizando o algoritmo de Gradiente Descendente implementado manualmente em Python, sem o uso de bibliotecas de machine learning (como Scikit-learn, TensorFlow, etc). Todos os cálculos foram feitos diretamente no código, incluindo o ajuste de pesos, funções de custo, derivadas e propagação de erros, de forma a reforçar a compreensão teórica por trás dos algoritmos.
